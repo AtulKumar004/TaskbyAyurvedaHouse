@@ -1,0 +1,26 @@
+.pic {
+    object-fit: cover;
+}
+.btn {
+    position: absolute;
+    right : 10px
+   
+}
+.btn-1 {
+    position: absolute;
+    right: 10px;
+
+    color: white;
+    
+    font-size:x-large;
+    top:15px;
+}
+.div{
+    position: relative;
+}
+.active {
+    display: block;
+}
+.inactive {
+    display: none;
+}
